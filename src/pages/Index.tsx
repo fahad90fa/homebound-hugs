@@ -8,7 +8,7 @@ const Index = () => {
   const amazingReasons = [
     "🍛 Maa ke haath ka khana! Nothing beats home-cooked biryani and parathas",
     "👨‍👩‍👧 Quality time with your family who miss you SO much",
-    "😴 Sleeping in your own comfy bed without any hostel chaos",
+    "😴 Sleeping in your own comfy bed",
     "🎉 Being the star of your house again (as you should be!)",
     "📵 A break from Lahore's hectic routine and assignments",
     "❤️ Getting spoiled by everyone because you're their favorite",
