@@ -19,8 +19,6 @@ const Index = () => {
     "Our chai breaks and gossip sessions ☕",
     "The way you laugh at your own jokes (iconic honestly)",
     "Your dramatic reactions to literally everything 🎭",
-    "Having someone to share my food with (now I'll have to eat alone 😭)",
-    "Your motivational speeches when I want to skip class",
     "Our late-night study sessions (mostly procrastinating together)",
     "Your presence that makes everything feel better 💕",
   ];
